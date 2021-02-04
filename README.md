@@ -7,3 +7,4 @@ esta es mi primerita vez
 [Proyecto de kill switch con lámpara RGB](https://github.com/Jsamapro/arduino/blob/main/kill_switch.ino)
 
 [Si el boton eesta pulsado parpadea y si no, no parpadea](https://github.com/Jsamapro/arduino/blob/main/PWM1.ino)
+
