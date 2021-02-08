@@ -11,3 +11,5 @@ esta es mi primerita vez
 [Si le das al boton suena un pitido](https://github.com/Jsamapro/arduino/blob/main/theremin.ino)
 
 [chimuelo(snippet)_kill_switch](https://github.com/Jsamapro/arduino/blob/main/snippet_kill_switch.cpp)
+
+https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos
