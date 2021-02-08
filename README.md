@@ -12,4 +12,4 @@ esta es mi primerita vez
 
 [chimuelo(snippet)_kill_switch](https://github.com/Jsamapro/arduino/blob/main/snippet_kill_switch.cpp)
 
-https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos
+[Repositorio David](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
