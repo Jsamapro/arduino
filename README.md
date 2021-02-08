@@ -10,4 +10,4 @@ esta es mi primerita vez
 
 [Si le das al boton suena un pitido](https://github.com/Jsamapro/arduino/blob/main/theremin.ino)
 
-[chimuelo_kill_switch](https://github.com/Jsamapro/arduino/blob/main/snippet_kill_switch.cpp)
+[chimuelo(snippet)_kill_switch](https://github.com/Jsamapro/arduino/blob/main/snippet_kill_switch.cpp)
