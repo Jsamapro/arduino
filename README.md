@@ -9,3 +9,5 @@ esta es mi primerita vez
 [Si el boton eesta pulsado parpadea y si no, no parpadea](https://github.com/Jsamapro/arduino/blob/main/PWM1.ino)
 
 [Si le das al boton suena un pitido](https://github.com/Jsamapro/arduino/blob/main/theremin.ino)
+
+[chimuelo_kill_switch](https://github.com/Jsamapro/arduino/blob/main/snippet_kill_switch.cpp)
