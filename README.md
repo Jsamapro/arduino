@@ -21,3 +21,5 @@ esta es mi primerita vez
 [Canvia de color con el boton](https://github.com/Jsamapro/arduino/blob/main/luz_moludable.ino)
 
 ![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210209_115945.jpg)
+
+[copiado del marc](https://github.com/Jsamapro/arduino/blob/main/botones_suman_y_restan_grados.ino)
