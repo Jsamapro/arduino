@@ -20,4 +20,4 @@ esta es mi primerita vez
 
 [Canvia de color con el boton](https://github.com/Jsamapro/arduino/blob/main/luz_moludable.ino)
 
-![texto](
+![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210209_115945.jpg)
