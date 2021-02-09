@@ -17,3 +17,4 @@ esta es mi primerita vez
 [Flecha que giras](https://github.com/Jsamapro/arduino/blob/main/ruleta_de_los_animos.ino)
 
 ![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210208_123424.jpg)
+
