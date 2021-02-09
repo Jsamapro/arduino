@@ -22,4 +22,6 @@ esta es mi primerita vez
 
 ![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210209_115945.jpg)
 
-[copiado del marc](https://github.com/Jsamapro/arduino/blob/main/botones_suman_y_restan_grados.ino)
+[botones que suman y restan grados: del marc](https://github.com/Jsamapro/arduino/blob/main/botones_suman_y_restan_grados.ino)
+
+![texto](https://github.com/Jsamapro/arduino/blob/main/botones_suman_y_restan_grados.ino)
