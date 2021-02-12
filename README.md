@@ -27,3 +27,5 @@ esta es mi primerita vez
 ![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210209_131707.jpg)
 
 [le das al boton y suena y puedes cambiar el tono](https://github.com/Jsamapro/arduino/blob/main/theremin_con_killswitch_y_potenciometro.ino)
+
+![texto](https://raw.githubusercontent.com/Wesley3455/Arduino-/main/1612871762579.jpg)
