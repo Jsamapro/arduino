@@ -25,3 +25,5 @@ esta es mi primerita vez
 [botones que suman y restan grados: del marc](https://github.com/Jsamapro/arduino/blob/main/botones_suman_y_restan_grados.ino)
 
 ![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210209_131707.jpg)
+
+[le das al boton y suena y puedes cambiar el tono](https://github.com/Jsamapro/arduino/blob/main/theremin_con_killswitch_y_potenciometro.ino)
