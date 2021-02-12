@@ -31,3 +31,5 @@ esta es mi primerita vez
 ![texto](https://raw.githubusercontent.com/Wesley3455/Arduino-/main/1612871762579.jpg)
 
 [suenan 4 tonos diferentes](https://github.com/Jsamapro/arduino/blob/main/instrumento_de_teclado.ino)
+
+![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210212_102140.jpg)
