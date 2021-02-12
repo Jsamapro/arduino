@@ -33,3 +33,5 @@ esta es mi primerita vez
 [suenan 4 tonos diferentes](https://github.com/Jsamapro/arduino/blob/main/instrumento_de_teclado.ino)
 
 ![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210212_102140.jpg)
+
+[se van encendiendo las luces y si mueves el arduino se apagan](https://github.com/Jsamapro/arduino/blob/main/Reloj_de_arena_digital.ino)
