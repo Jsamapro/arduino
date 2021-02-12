@@ -35,3 +35,5 @@ esta es mi primerita vez
 ![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210212_102140.jpg)
 
 [se van encendiendo las luces y si mueves el arduino se apagan](https://github.com/Jsamapro/arduino/blob/main/Reloj_de_arena_digital.ino)
+
+![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210212_133738.jpg)
