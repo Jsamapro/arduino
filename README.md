@@ -2,7 +2,7 @@
 
 ## Sobre este repositorio
 
-Hola soy... y hago esto... . Este es un reposotirio....
+Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo todo lo que voy haciendo. 
 
 ## Índice de proyectos
 
