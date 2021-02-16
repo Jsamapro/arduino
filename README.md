@@ -1,6 +1,20 @@
 # proyecto de arduino
-## Empezando a documentar
-esta es mi primerita vez
+
+## Sobre este repositorio
+
+Hola soy... y hago esto... . Este es un reposotirio....
+
+## Índice de proyectos
+
+## Proyectos realizados
+
+### Proyectos de piezo (altavoz)
+
+[Si le das al boton suena un pitido](https://github.com/Jsamapro/arduino/blob/main/theremin.ino)
+
+### Otros proyectos y documentación
+
+
 
 [Sitio web para saber los comandosde markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
@@ -8,7 +22,7 @@ esta es mi primerita vez
 
 [Si el boton eesta pulsado parpadea y si no, no parpadea](https://github.com/Jsamapro/arduino/blob/main/PWM1.ino)
 
-[Si le das al boton suena un pitido](https://github.com/Jsamapro/arduino/blob/main/theremin.ino)
+
 
 [chimuelo(snippet)_kill_switch](https://github.com/Jsamapro/arduino/blob/main/snippet_kill_switch.cpp)
 
@@ -37,3 +51,6 @@ esta es mi primerita vez
 [se van encendiendo las luces y si mueves el arduino se apagan](https://github.com/Jsamapro/arduino/blob/main/Reloj_de_arena_digital.ino)
 
 ![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210212_133738.jpg)
+
+## Empezando a documentar
+esta es mi primerita vez
