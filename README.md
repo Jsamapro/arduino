@@ -20,6 +20,7 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 [Proyectos de PWM](https://github.com/Jsamapro/arduino/blob/main/PWM1.ino)
 
+[Proyecto PWM 2](https://github.com/Jsamapro/arduino/blob/main/sketch_jan28b.ino)
 
 ### Proyectos de luz RGB
 
@@ -39,17 +40,17 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 [Proyecto de generador de melodías aleatorias]
 
-[Proyecto de Theremin Térmico]
+[Proyecto de Theremin Térmico](https://github.com/Jsamapro/arduino/blob/main/theremin_termico.ino)
 
-[Proyecto de teclado con entrada analógica (4/6 botones)]
+[Proyecto de teclado con entrada analógica (4/6 botones)](https://github.com/Jsamapro/arduino/blob/main/instrumento_de_teclado.ino)
 
 [Proyecto de teclado con entrada de potenciómetro por intervalos]
 
 ### Proyectos con servomotor o potenciómetro
 
-[Proyecto de medidor de estado de ánimo con potenciador.]
+[Proyecto de medidor de estado de ánimo con potenciador.](https://github.com/Jsamapro/arduino/blob/main/ruleta_de_los_animos.ino)
 
-[Proyecto de potenciador para añadir y quitar luz a un led RGB]
+[Proyecto de potenciador para añadir y quitar luz a un led RGB](https://github.com/Jsamapro/arduino/blob/main/luz_moludable.ino)
 
 [Proyecto de potenciador para añadir y quitar tono a un altavoz. (con Kill switch)]
 
