@@ -6,6 +6,8 @@ Hola soy... y hago esto... . Este es un reposotirio....
 
 ## Índice de proyectos
 
+[Proyectos de piezo (altavoz)](#proyectos-de-piezo-altavoz)
+
 ## Proyectos realizados
 
 ### Proyectos de piezo (altavoz)
