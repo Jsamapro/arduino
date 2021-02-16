@@ -12,6 +12,12 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 ### Proyectos con LED Y botón
 
+    Código morse
+    (proyecto de libro) Semáforo (highspeed engager)
+    Sensor de temperatura
+    Proyectos de PWM
+
+
 ### Proyectos de piezo (altavoz)
 
 [Si le das al boton suena un pitido](https://github.com/Jsamapro/arduino/blob/main/theremin.ino)
