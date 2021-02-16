@@ -13,26 +13,26 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 ### Proyectos con LED Y botón
 
 [Código morse (alba)](https://github.com/Albitah24/arduino/blob/main/SOS_MORSE.ino)
-[(proyecto de libro) Semáforo (highspeed engager)]
-[Sensor de temperatura]
-[Proyectos de PWM]
+[(proyecto de libro) Semáforo (highspeed engager)](https://github.com/Jsamapro/arduino/blob/main/SEMAFORO.ino)
+[Sensor de temperatura](https://github.com/Jsamapro/arduino/blob/main/medidor_de_temperatura.ino)
+[Proyectos de PWM](https://github.com/Jsamapro/arduino/blob/main/PWM1.ino)
 
 
 ### Proyectos de luz RGB
 
-    Proyecto de luz RGB con PWM y botones
-    Proyecto de sensores luz RGB con calibración
-    Proyecto de sensores luz RGB con calibración y Kill Switch
+[Proyecto de luz RGB con PWM y botones]
+[Proyecto de sensores luz RGB con calibración]
+[Proyecto de sensores luz RGB con calibración y Kill Switch]
 
 ### Proyectos de piezo (altavoz)
 
-    Proyecto de theremin con Kill Switch
-    Proyecto de melodía con kill switch
-    Proyecto con diferentes melodías
-    Proyecto de generador de melodías aleatorias
-    Proyecto de Theremin Térmico
-    Proyecto de teclado con entrada analógica (4/6 botones)
-    Proyecto de teclado con entrada de potenciómetro por intervalos
+[Proyecto de theremin con Kill Switch]
+[Proyecto de melodía con kill switch]
+[Proyecto con diferentes melodías]
+[Proyecto de generador de melodías aleatorias]
+[Proyecto de Theremin Térmico]
+[Proyecto de teclado con entrada analógica (4/6 botones)]
+[Proyecto de teclado con entrada de potenciómetro por intervalos]
 
 ### Proyectos con servomotor o potenciómetro
 
