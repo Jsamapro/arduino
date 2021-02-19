@@ -108,5 +108,7 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 ![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210219_100958.jpg)
 
+![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210219_131846.jpg)
+
 ## Empezando a documentar
 esta es mi primerita vez
