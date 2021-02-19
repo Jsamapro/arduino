@@ -106,7 +106,7 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 [Motor que al pulsar el boton gira](https://github.com/Jsamapro/arduino/blob/main/motor_que_gira.ino)
 
-![texto](
+![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210219_100958.jpg)
 
 ## Empezando a documentar
 esta es mi primerita vez
