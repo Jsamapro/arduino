@@ -104,5 +104,9 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 ![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210212_133738.jpg)
 
+[Motor que al pulsar el boton gira](https://github.com/Jsamapro/arduino/blob/main/motor_que_gira.ino)
+
+![texto](
+
 ## Empezando a documentar
 esta es mi primerita vez
