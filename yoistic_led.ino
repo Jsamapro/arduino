@@ -1,5 +1,5 @@
 //*  Documentación del programa 
-//*  Autore: Alba
+//*  Autore: Jaume
 //*  Fecha: 1/3/2021
 //*  Código referencia: (url)
 //*  Descripción del programa:
