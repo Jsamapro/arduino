@@ -20,7 +20,7 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 [Proyectos de PWM](https://github.com/Jsamapro/arduino/blob/main/PWM1.ino)
 
-[Proyecto PWM 2](https://github.com/Jsamapro/arduino/blob/main/sketch_jan28b.ino)
+[Proyecto PWMhttps://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.inohttps://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.inohttps://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.inohttps://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.ino 2](https://github.com/Jsamapro/arduino/blob/main/sketch_jan28b.ino)
 
 ### Proyectos de luz RGB
 
@@ -110,5 +110,6 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 ![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210219_131846.jpg)
 
+[emoji minabo](https://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.ino)
 ## Empezando a documentar
 esta es mi primerita vez
