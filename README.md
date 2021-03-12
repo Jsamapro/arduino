@@ -20,7 +20,7 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 [Proyectos de PWM](https://github.com/Jsamapro/arduino/blob/main/PWM1.ino)
 
-[Proyecto PWM](https://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.inohttps://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.inohttps://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.inohttps://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.ino 2](https://github.com/Jsamapro/arduino/blob/main/sketch_jan28b.ino)
+[Proyecto PWM 2](https://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.inohttps://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.inohttps://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.inohttps://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.ino (https://github.com/Jsamapro/arduino/blob/main/sketch_jan28b.ino)
 
 ### Proyectos de luz RGB
 
