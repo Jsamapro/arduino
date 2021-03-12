@@ -108,7 +108,7 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 [emoji minabo](https://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.ino)
 
-###Proyectos con Joystick
+### Proyectos con Joystick
 
 Proyecto de Joystick de prueba
 
@@ -118,7 +118,7 @@ Proyecto de Joystick que toca una nota
 
 Proyecto de Rádar
 
-###Proyectos con pantalla LCD
+### Proyectos con pantalla LCD
 
 Proyecto de pantalla LCD (Bola de cristal)
     
