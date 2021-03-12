@@ -66,15 +66,11 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 ### Proyectos de motores de corriente contínua 9V
 
-
-
 [Sitio web para saber los comandosde markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 [Proyecto de kill switch con lámpara RGB](https://github.com/Jsamapro/arduino/blob/main/kill_switch.ino)
 
 [Si el boton eesta pulsado parpadea y si no, no parpadea](https://github.com/Jsamapro/arduino/blob/main/PWM1.ino)
-
-
 
 [chimuelo(snippet)_kill_switch](https://github.com/Jsamapro/arduino/blob/main/snippet_kill_switch.cpp)
 
@@ -111,5 +107,22 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 ![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210219_131846.jpg)
 
 [emoji minabo](https://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.ino)
+
+###Proyectos con Joystick
+
+Proyecto de Joystick de prueba
+
+Proyecto de Joystick que enciende un led
+
+Proyecto de Joystick que toca una nota
+
+Proyecto de Rádar
+
+###Proyectos con pantalla LCD
+
+Proyecto de pantalla LCD (Bola de cristal)
+    
+Proyecto de pantalla LCD (loro)
+
 ## Empezando a documentar
 esta es mi primerita vez
