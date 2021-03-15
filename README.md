@@ -108,6 +108,10 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 [zoótropo](https://github.com/Jsamapro/arduino/blob/main/zo_tropo.ino)
 
+![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210315_101107.jpg)
+
+![texto](https://github.com/Jsamapro/arduino/blob/main/IMG_20210315_103330.jpg)
+
 [emoji minabo](https://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.ino)
 
 ### Proyectos con Joystick
