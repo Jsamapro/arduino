@@ -118,11 +118,11 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 Proyecto de Joystick de prueba
 
-Proyecto de Joystick que enciende un led
+[Joystick que enciende un led](https://github.com/Jsamapro/arduino/blob/main/yoistic_led.ino)
 
-Proyecto de Joystick que toca una nota
+[Joystick que toca una nota](https://github.com/Jsamapro/arduino/blob/main/yoistic_led_radar_altavox.ino)
 
-Proyecto de Rádar
+[Rádar](https://github.com/Jsamapro/arduino/blob/main/yoistic_led_variacion_02.ino)
 
 ### Proyectos con pantalla LCD
 
