@@ -24,11 +24,11 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 ### Proyectos de luz RGB
 
-[Proyecto de luz RGB con PWM y botones]
+[Proyecto de luz RGB con PWM y botones](https://github.com/Jsamapro/arduino/blob/main/pin_con_potenciometro__cambio_de_lado_.ino)
 
-[Proyecto de sensores luz RGB con calibración]
+[Proyecto de sensores luz RGB con calibración](https://github.com/Jsamapro/arduino/blob/main/led_con_potenciometro.ino)
 
-[Proyecto de sensores luz RGB con calibración y Kill Switch]
+[Proyecto de sensores luz RGB con calibración y Kill Switch](https://github.com/Jsamapro/arduino/blob/main/led_rgb_con_calibracion.ino)
 
 ### Proyectos de piezo (altavoz)
 
