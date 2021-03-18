@@ -70,7 +70,7 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 [Proyecto de kill switch con lámpara RGB](https://github.com/Jsamapro/arduino/blob/main/kill_switch.ino)
 
-[Si el boton eesta pulsado parpadea y si no, no parpadea](https://github.com/Jsamapro/arduino/blob/main/PWM1.ino)
+[Si el boton esta pulsado parpadea y si no, no parpadea](https://github.com/Jsamapro/arduino/blob/main/PWM1.ino)
 
 [chimuelo(snippet)_kill_switch](https://github.com/Jsamapro/arduino/blob/main/snippet_kill_switch.cpp)
 
