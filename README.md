@@ -52,7 +52,7 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 [Proyecto de potenciador para añadir y quitar luz a un led RGB](https://github.com/Jsamapro/arduino/blob/main/luz_moludable.ino)
 
-[Proyecto de potenciador para añadir y quitar tono a un altavoz. (con Kill switch)]
+[Proyecto de potenciador para añadir y quitar tono a un altavoz. (con Kill switch)](https://github.com/Jsamapro/arduino/blob/main/a_adir_y_quittar_tono_de_altavoz.ino)
 
 [Proyecto de sensor de temperatura para girar un servomotor]
 
