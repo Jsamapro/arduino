@@ -130,5 +130,9 @@ Proyecto de Joystick de prueba
     
 [Proyecto de pantalla LCD (loro)](https://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.ino)
 
+### Proyecto de sensor capacitivo
+
+[Proyecto de sensor capacitivo](https://github.com/Jsamapro/arduino/blob/main/lampara_tactil.ino)
+
 ## Empezando a documentar
 esta es mi primerita vez
