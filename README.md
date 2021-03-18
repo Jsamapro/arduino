@@ -62,7 +62,7 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 ### Proyectos con uso de millis () sin delay ()
 
-[Proyecto de reloj de arena digital]
+[Proyecto de reloj de arena digital](https://github.com/Jsamapro/arduino/blob/main/Reloj_de_arena_digital.ino)
 
 ### Proyectos de motores de corriente contínua 9V
 
@@ -126,9 +126,9 @@ Proyecto de Joystick de prueba
 
 ### Proyectos con pantalla LCD
 
-Proyecto de pantalla LCD (Bola de cristal)
+[Proyecto de pantalla LCD (Bola de cristal)](https://github.com/Jsamapro/arduino/blob/main/pantallita_zdhsdfh.ino)
     
-Proyecto de pantalla LCD (loro)
+[Proyecto de pantalla LCD (loro)](https://github.com/Jsamapro/arduino/blob/main/pantallita_minabo.ino)
 
 ## Empezando a documentar
 esta es mi primerita vez
