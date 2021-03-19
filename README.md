@@ -32,7 +32,7 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 ### Proyectos de piezo (altavoz)
 
-[Proyecto de theremin con Kill Switch]
+[Proyecto de theremin con Kill Switch](https://github.com/Jsamapro/arduino/blob/main/theremin_con_killswitch.ino)
 
 [Proyecto de melodía con kill switch]
 
