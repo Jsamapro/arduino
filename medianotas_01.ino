@@ -1,6 +1,7 @@
 
 float notas[] = { 8.5, 6.3, 2.6} ;
 int numeroNotas = 3;
+float ponderacionNota[] = {0.2, 0.6, 0.2};
 float sumaNotas = 0;
 float mediaAritmeticaNotas = 0;
 float mediaNotas;
@@ -17,6 +18,15 @@ void setup() {
     
 }
 void loop() {
-  // put your main code here, to run repeatedly:
+  sumaNotas = 0;
+  for ( int iterador = 0; iterador < numeroNotas; iterador ++)
+{
+    sumaNotas = sumaNotas + notas[iterador]*ponderacionNota[iterador];
+}
+mediaNotas = sumaNotas;
+ Serial.println("La media ponderada de las notas");
+  Serial.println(mediaNotas);
 
+
+  
 }
