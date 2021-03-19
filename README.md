@@ -140,5 +140,11 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 [Media notas 02](https://github.com/Jsamapro/arduino/blob/main/medianotas_02.ino)
 
+### Examen
+
+[Problema 1](https://github.com/Jsamapro/arduino/blob/main/problema_1_del_examen.ino)
+
+[problema 2](https://github.com/Jsamapro/arduino/blob/main/problema_2_sin_acabar.ino)
+
 ## Empezando a documentar
 esta es mi primerita vez
