@@ -134,5 +134,11 @@ Hola soy Jaume y hago programación. Este es un reposotirio donde guardo y subo 
 
 [Proyecto de sensor capacitivo](https://github.com/Jsamapro/arduino/blob/main/lampara_tactil.ino)
 
+### Proyecto de media aritmética y mínimo y proyecto de media ponderada
+
+[Media notas 01](https://github.com/Jsamapro/arduino/blob/main/medianotas_01.ino)
+
+[Media notas 02](https://github.com/Jsamapro/arduino/blob/main/medianotas_02.ino)
+
 ## Empezando a documentar
 esta es mi primerita vez
